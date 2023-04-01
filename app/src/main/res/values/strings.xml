@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <string name="search">search</string>
+    <string name="calculating">calculating...</string>
+    <string name="loading">Loading...</string>
+    <string name="favorite">favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Followings</string>
+    <string name="follower">%d Followers</string>
+    <string name="following">%d Following</string>
+    <string name="error_api_limit">Sorry, Empty Response. API reached its limit?</string>
+    <string name="error_bad_connection">Sorry, Response Failed. Bad Connection?</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
